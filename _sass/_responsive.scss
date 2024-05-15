@@ -1,0 +1,148 @@
+/* Extra small devices (phones, less than 768px) */
+@media (max-width: 767px) {
+
+    body{
+        padding: 0;
+    }
+
+    .sidebar-wrapper {
+        position: static;
+        width: inherit;
+    }
+
+    .main-wrapper {
+        padding: 30px;
+    }
+
+    .main-wrapper .time {
+        position: static;
+        display: block;
+        margin-top: 5px;
+    }
+
+    .main-wrapper .upper-row {
+        margin-bottom: 0;
+    }
+    
+        .item-2 {
+        margin-bottom: 10px;
+        overflow: hidden;
+        height: 50px;
+        border-bottom: 1px solid $text-grey;;
+        width: auto;
+    }
+    
+    .item {
+        margin-bottom: 5px;
+        overflow: hidden;
+    }
+    
+    .skillset .header-level-title-2 {
+        display: inline-block;
+        float: left;
+        width: 70%;
+        margin-bottom: 5px;
+    }
+    
+
+}
+/* Small devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+
+    .item-2 {
+        margin-bottom: 10px;
+        overflow: hidden;
+        height: 40px;
+        border-bottom: 1px solid $text-grey;;
+        width: auto;
+    }
+    
+    .item {
+        margin-bottom: 5px;
+        overflow: hidden;
+    }
+    
+    .skillset .header-level-title-2 {
+        display: inline-block;
+        float: left;
+        width: 70%;
+        margin-bottom: 5px;
+    }
+    
+}
+
+/* Medium devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+
+    .item {
+        margin-bottom: 0px;
+        overflow: hidden;
+    }
+    .item-2 {
+        margin-bottom: 10px;
+        overflow: hidden;
+        height: 20px;
+        border-bottom: 1px solid $text-grey;;
+        width: auto;
+    }
+    
+    .skillset .header-level-title {
+        display: inline-block;
+        float: left;
+        width: 30%;
+        margin-bottom: 0px;
+    }
+
+    .skillset .header-level-title-2 {
+        display: inline-block;
+        float: left;
+        width: 70%;
+        margin-bottom: 5px;
+    }
+    .skillset .level-bar {
+        display: inline-block;
+        width: 25%;
+        float: left;
+        position: relative;
+        top: 1px;
+    }
+    
+    .skillset .level-name {
+        display: inline-block;
+        float: left;
+        position: relative;
+        text-align: left;
+        margin-bottom: 0;
+    }
+    
+    .skillset .header-level-name {
+        display: inline-block;
+        float: left;
+        width: 40%;
+        padding: 0px;
+    }
+    
+    .skillset .level-title {
+        display: inline-block;
+        float: left;
+        width: 30%;
+        margin-bottom: 0;
+    }
+    
+}
+
+/* Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+    .skillset .level-title {
+        display: inline-block;
+        float: left;
+        width: 30%;
+        margin-bottom: 0;
+    }
+}
+
+
+/* Ex-Large devices (large desktops, 1200px and up) */
+@media (min-width: 1400px) {
+
+}
