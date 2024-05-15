@@ -2,7 +2,7 @@
 
 # Site Settings
 title: BrightCoders Academy
-url: 'https://brightcoders-institute.github.io/scorecard-vrojas2/' # dejar en blanco, NO modificar
+url: 'https://brightcoders-institute.github.io/scorecard-vrojas2' # dejar en blanco, NO modificar
 baseurl: '' # escribe la URL que se generó para tu GiitHub Pages
 theme_skin: blue # NO modificar
 chrome_mobile_color: #use hex colors (ex:#1976d2) or leave empty if you don't want a color for chrome mobile searchbar
