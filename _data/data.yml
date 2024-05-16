@@ -145,18 +145,23 @@ skills:
       level: 60%
       level-name: Competent
       time: 1 year
+
+    - name: Cloud Services AWS
+      level: 60%
+      level-name: Competent
+      time: 2 year
+
+    - name: React.js
+      level: 100%
+      level-name: Expert
+      time: 3+ years
     
     - name: GIT (GitHub, GitLab)
       level: 100%
       level-name: Expert
       time: 4 years
 
-    - name: Cloud Services (AWS)
-      level: 60%
-      level-name: Competent
-      time: 2 year
-
-    - name: FrontEnd (React.js, CSS, SASS, Material UI, Bootstrap, JQuery)
+    - name: SASS, Material UI, Bootstrap, JQuery)
       level: 100%
       level-name: Expert
       time: 3+ years
@@ -171,7 +176,7 @@ skills:
       level-name: Competent
       time: 6 months
     
-    - name: BackEnd (Node.js, ExpressJS, Sequelize)
+    - name: Node.js, ExpressJS, Sequelize
       level: 60%
       level-name: Competent
       time: 1+ years
