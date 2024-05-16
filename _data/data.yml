@@ -58,6 +58,8 @@ career-profile:
     experience in this field. I'm currently looking for a job as a software developer
     either as a frontentd, backend or fullstack. Perfect management of JS/TS and
     frameworks related to these languages. Additionally, I have knowledge in Python.
+    As a future Senior Developer, I am looking for an innovative company here in Mexico,
+    where I can leverage my creativity and problem-solving skills to make an impact in people’s lives.
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
@@ -144,7 +146,6 @@ skills:
       level-name: Competent
       time: 1 year
     
-    toolset:
     - name: GIT (GitHub, GitLab)
       level: 100%
       level-name: Expert
