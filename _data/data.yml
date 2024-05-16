@@ -13,14 +13,14 @@ sidebar:
   avatar: escudo.png # No modificar
 
   # Actualiza tus datos de contacto
-  email: john@gmail.com
-  phone: 123 123 1234
+  email: vrojasbayardo21@gmail.com
+  phone: 312 200 6182
   website: # No agregar http://
-  linkedin: john # solo tu nombre de usuario de linkedin o dejar en blanco
-  github: john # solo tu nombre de usuario en github o dejar en blanco
-  gitlab: john # solo tu nombre de usuario en gitlab o dejar en blanco
-  bitbucket: john # solo tu nombre de usuario en bitbucket o dejar en blanco
-  twitter: '@john' # solo tu nombre de usuario en twitter o dejar en blanco
+  linkedin: victor-rojasb # solo tu nombre de usuario de linkedin o dejar en blanco
+  github: vrojas2 # solo tu nombre de usuario en github o dejar en blanco
+  gitlab:  # solo tu nombre de usuario en gitlab o dejar en blanco
+  bitbucket:  # solo tu nombre de usuario en bitbucket o dejar en blanco
+  twitter: # solo tu nombre de usuario en twitter o dejar en blanco
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -54,7 +54,10 @@ sidebar:
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    As a Computer Systems Engineering student with a deep passion for technology and programming, I have a keen interest in web, backend and frontend programming. As an autodidact programmer, I have a love for learning and consistently seek to improve my skills by staying up to date with industry best practices and logical thinking. I am proactive, diligent, and thrive in collaborative environments, where I can share my knowledge and learn from others. My passion for technology stems from my belief that it has the potential to make us better individuals, coworkers, and productive members of society. As a future Senior Developer, I am looking for an innovative company here in Mexico, where I can leverage my creativity and problem-solving skills to make an impact in people's lives.
+    I'm a software engineer with web development skills who has more than 3 years of
+    experience in this field. I'm currently looking for a job as a software developer
+    either as a frontentd, backend or fullstack. Perfect management of JS/TS and
+    frameworks related to these languages. Additionally, I have knowledge in Python.
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
@@ -64,16 +67,22 @@ educationcomplete:
     details: |
       Facultad de Telemática - Software Engineer.
 
-  - degree: Python Certification
-    university: Udemy
-    time: 2022
+  - degree: Programming using Python.
+    university: Universidad de Colima
+    time: Apr 24 - May 24
     details: |
-      300 hrs course certification.
+      Python programming and introduction of data analytics. https://bit.ly/4duzdFS
+
+  - degree: Scrum Fundamentals Certified.
+    university: SCRUMstudy - Accreditation Body for Scrum and Agile
+    time: 2024
+    details: |
+      http://bit.ly/4asURIZ
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
   - role: React Native Developer
-    time: Feb 2022 - Present
+    time: Dic 2022 - Present
     company: Bright Coders, Mexico
     details: |
       Develop native applications with technologies such as Javascript and React Native, 
@@ -81,19 +90,38 @@ experiences:
       and remote repositories. In addition to developing fundamental skills in software development 
       such as teamwork and effective communication using an agile methodology.
 
-  - role: Project Name
-    time: Sep 2021 - Jan 2022
-    company: BrightCoders
+  - role: Software engineer
+    time: Feb 2021 - Present
+    company: Mecate
     details: |
-      My role was to design the views with Figma and use React Native for the development of o mobile app designed for... I worked remotely with other 3 team members.
+      Developed and designed mobile-friendly e-commerce and Website using React.js, 
+      consuming an API to display real-time data and utilizing CI/CD for efficiency. 
+      Managed projects with JIRA and version control.
 
-  - role: Full Stack Developer
-    time: Feb 2021 - Aug 2021
-    company: Company Name
+  - role: Frontend developer
+    time: Aug 22 - Dic 23
+    company: Microsip
     details: |
-      My role was to create the layout for the website in a responsive way, 
-      create the database logic with SQL, develop the frontend part with jQuery
-      and the backend with PHP and its Codeigniter framework.
+      Developed a SaaS platform for hardware stores with point-of-sale, billing, and 
+      data management capabilities. I used TypeScript and ReactJS, integrating 
+      microservices in AWS. Scrum with Jira was implemented for project management, 
+      and CI/CD on GitHub for agile code delivery.
+
+  - role: Fullstack developer
+    time: Agu 21 - Feb 22
+    company: Secretaría de Salud Colima
+    details: |
+      Development of a payroll management system for SSC workers, which consisted of 
+      a backend in Express with MySQL, and on the front end, ReactJS along with 
+      libraries such as Material UI and ReactBootstrap.
+
+  - role: Web developer
+    time: Feb 21 - Aug 21
+    company: FEC (Federación de Estudiantes Colimenses)
+    details: |
+      Update of the FEC website with a 'mobile-first' approach using CodeIgniter, 
+      JQuery, and Bootstrap. Improved performance and design, also added new features 
+      to meet the needs of students and administrators.
 
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
@@ -101,24 +129,56 @@ experiences:
 # 60% para Competent
 # 80% para Proficient
 # 100% para Expert
+
 skills:
   title: Technical Skills # NO MODIFICAR
 
   toolset:
-    - name: Javascript
-      level: 20%
-      level-name: Novice
-      time: 6 months
-
-    - name: React
-      level: 40%
-      level-name: Advanced beginner
+    - name: Javascript, TypeScript
+      level: 100%
+      level-name: Expert
+      time: 4 years
+    
+    - name: Python
+      level: 60%
+      level-name: Competent
       time: 1 year
+    
+    toolset:
+    - name: GIT (GitHub, GitLab)
+      level: 100%
+      level-name: Expert
+      time: 4 years
+
+    - name: Cloud Services (AWS)
+      level: 60%
+      level-name: Competent
+      time: 2 year
+
+    - name: FrontEnd (React.js, CSS, SASS, Material UI, Bootstrap, JQuery)
+      level: 100%
+      level-name: Expert
+      time: 3+ years
+
+    - name: UI/UX design (Figma, AdobeXD, AxureRP)
+      level: 100%
+      level-name: Expert
+      time: 4 years
 
     - name: React Native
-      level: 80%
-      level-name: Proficient
-      time: 2+ years
+      level: 60%
+      level-name: Competent
+      time: 6 months
+    
+    - name: BackEnd (Node.js, ExpressJS, Sequelize)
+      level: 60%
+      level-name: Competent
+      time: 1+ years
+    
+    - name: Databases (MySQL, PostgreSQL, MongoDB, Firebase)
+      level: 60%
+      level-name: Competent
+      time: 2 years
 
 # NO MODIFICAR
 footer: >
