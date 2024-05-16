@@ -69,7 +69,7 @@ educationcomplete:
 
   - degree: Programming using Python.
     university: Universidad de Colima
-    time: Apr 24 - May 24
+    time: 2024
     details: |
       Python programming and introduction of data analytics. https://bit.ly/4duzdFS
 
@@ -82,7 +82,7 @@ educationcomplete:
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
   - role: React Native Developer
-    time: Dic 2022 - Present
+    time: Dec 2022 - Present
     company: Bright Coders, Mexico
     details: |
       Develop native applications with technologies such as Javascript and React Native, 
@@ -99,7 +99,7 @@ experiences:
       Managed projects with JIRA and version control.
 
   - role: Frontend developer
-    time: Aug 22 - Dic 23
+    time: Aug 22 - Dec 23
     company: Microsip
     details: |
       Developed a SaaS platform for hardware stores with point-of-sale, billing, and 
