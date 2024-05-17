@@ -41,13 +41,16 @@ sidebar:
     - item: Effective communication
       link: # dejar en blanco
 
-    - item: Good Team Player
+    - item: Problem Solving
       link: # dejar en blanco
 
     - item: Positive Attitude
       link: # dejar en blanco
 
     - item: Time and Task Management
+      link: # dejar en blanco
+
+    - item: Teamwork
       link: # dejar en blanco
 
 # Registra aquí un resumen de tu perfil
@@ -141,7 +144,7 @@ skills:
       level-name: Expert
       time: 4 years
     
-    - name: Python
+    - name: Python, PHP
       level: 60%
       level-name: Competent
       time: 1 year
@@ -151,17 +154,17 @@ skills:
       level-name: Competent
       time: 2 year
 
-    - name: React.js
+    - name: React
       level: 100%
       level-name: Expert
       time: 3+ years
     
-    - name: GIT (GitHub, GitLab)
+    - name: GIT (GitHub, GitLab, GitHub Actions)
       level: 100%
       level-name: Expert
       time: 4 years
 
-    - name: SASS, Material UI, Bootstrap, JQuery)
+    - name: SASS, Material UI, Bootstrap, JQuery
       level: 100%
       level-name: Expert
       time: 3+ years
