@@ -83,18 +83,15 @@ educationcomplete:
     time: 2024
     details: |
       http://bit.ly/4asURIZ
+ 
+  - degree: React Native Developer
+    university: BrightCoders
+    time: May 2024
+    details: |
+      https://bit.ly/4aw1hWF
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
-  - role: React Native Developer
-    time: Dec 2022 - Present
-    company: Bright Coders, Mexico
-    details: |
-      Develop native applications with technologies such as Javascript and React Native, 
-      while implementing good practices, test-based development, tools for managing local 
-      and remote repositories. In addition to developing fundamental skills in software development 
-      such as teamwork and effective communication using an agile methodology.
-
   - role: Software engineer
     time: Feb 2021 - Present
     company: Mecate
@@ -102,6 +99,15 @@ experiences:
       Developed and designed mobile-friendly e-commerce and Website using React.js, 
       consuming an API to display real-time data and utilizing CI/CD for efficiency. 
       Managed projects with JIRA and version control.
+
+  - role: React Native Developer
+    time: Dec 2023 - May 24
+    company: Bright Coders, Mexico
+    details: |
+      Develop native applications with technologies such as Javascript and React Native, 
+      while implementing good practices, test-based development, tools for managing local 
+      and remote repositories. In addition to developing fundamental skills in software development 
+      such as teamwork and effective communication using an agile methodology.
 
   - role: Frontend developer
     time: Aug 22 - Dec 23
